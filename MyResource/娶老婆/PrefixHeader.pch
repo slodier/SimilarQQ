@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  娶老婆
+//
+//  Created by CC on 16/8/14.
+//  Copyright © 2016年 736376103@qq.com. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define Kwidth [UIScreen mainScreen].bounds.size.width
+#define Kheight [UIScreen mainScreen].bounds.size.height
+
+#endif /* PrefixHeader_pch */
